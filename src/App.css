@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+body {
+    background-size: cover;
+    background-image: url('./assets/images/bg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/* Hides scrollbar but allows scrolling */
+::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    scrollbar-width: none;
+}
+
+body {
+    -ms-overflow-style: none;
+}
