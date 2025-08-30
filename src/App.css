@@ -1,11 +1,13 @@
 @import "tailwindcss";
 
-.bgg-blackk{
+.bgg-blackk {
     background-size: cover;
     background-image: url('./assets/images/bg.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
+
+
 
 /* Hides scrollbar but allows scrolling */
 ::-webkit-scrollbar {
