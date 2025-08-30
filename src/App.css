@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-body {
+.bgg-blackk{
     background-size: cover;
     background-image: url('./assets/images/bg.jpg');
     background-attachment: fixed;
